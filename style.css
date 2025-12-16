@@ -1,0 +1,27 @@
+body {
+  font-family: "Times New Roman", serif;
+  text-align: center;
+  margin-top: 40px;
+}
+
+#timeBox {
+  border: 1px solid #aaa;
+  border-radius: 20px;
+  width: 350px;
+  margin: auto;
+  padding: 20px;
+  font-size: 28px;
+}
+
+input {
+  padding: 6px;
+}
+
+button {
+  padding: 6px 10px;
+}
+
+#wishOutput {
+  margin-top: 15px;
+  font-size: 18px;
+}
